@@ -50,7 +50,6 @@ This project leverages **Machine Learning** techniques to predict department-wid
 6. **Deployment:**
    - Deploy the application using Streamlit for real-time exploration and predictions.
 
-
 ---
 
 ## Usage
@@ -64,25 +63,10 @@ This project leverages **Machine Learning** techniques to predict department-wid
 
 ---
 
-## Recommendations
-- Implement targeted markdowns during high-impact holiday weeks.
-- Focus marketing strategies on departments and stores with the highest sales potential.
-- Optimize inventory planning based on predictive insights.
-
----
-
 ## Future Scope
 - Integrate time-series forecasting models for enhanced accuracy.
 - Incorporate additional external factors like regional demographics and weather.
 - Enable real-time prediction updates with live data integration.
-
----
-
-## Contact
-For queries or collaboration, feel free to contact:
-- **Name:** Your Name
-- **Email:** your-email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
 
 ---
 
